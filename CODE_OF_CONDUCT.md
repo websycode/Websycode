@@ -31,6 +31,8 @@ We don't accept the following behaviour:
 
 ## Enforcement
 
-Violations of the Code of Conduct may be reported by sending an email to info@websycode.in. All reports will be reviewed and investigated and will result in a response that is necessary and appropriate to the circumstances. 
+Violations of the Code of Conduct may be reported by sending an email to info@websycode.in. 
+
+All reports will be reviewed and investigated and will result in a response that is necessary and appropriate to the circumstances. 
 
 We hold the right and responsibility to remove comments or other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any members of community for other behaviours that they deem inappropriate, threatening, offensive, or harmful.
