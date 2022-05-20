@@ -19,7 +19,7 @@ To create a positive environment for our community we encourage the following be
 
 We don't accept the following behaviour:
 
-* Revealing sensitive information about our community to other.
+* Revealing sensitive information about our community to others.
 * Blackmailing someone.
 * Trolling, insulting/derogatory comments, public or private harassment.
 * Publishing others' private information, such as a physical or electronic address, without explicit permission
