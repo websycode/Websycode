@@ -1,7 +1,6 @@
-# WebSyCode
 
 <div align="center">
-<h6><img src="https://github.com/websycode/.github/blob/main/websycode.jpg" height="250" /></h6>
+<h6><img src="https://websycode.in/websycode_files/logo_transpaprent.webp" height="250" /></h6>
 </div>
 
 WebSyCode aims at abridging the technological gap separating the current market trends and the academics by the means of webinars, in-person consultation and running local campaigns and meetups.
