@@ -5,6 +5,8 @@
 
 WebSyCode aims at abridging the technological gap separating the current market trends and the academics by the means of webinars, in-person consultation and running local campaigns and meetups.
 
+We accept the application of each individual irrespective of his/her caste, creed, religion, race, ethnicity, language, beliefs, interest, sex and ailments.
+
 ## Mission💥
 Our mission is to provide enough guidance to each person who is interested in grooming his/her skills irrespective of his/her majors and family background. We want to make a strong community that can come together to solve any complex challenge and build a product that can bring revolution to the tech industry. We aim to invoke the engineer inside you!
 
